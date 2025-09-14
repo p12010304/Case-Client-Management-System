@@ -2,6 +2,7 @@
 Demo version of Case & Client Management System, designed for law firms.
 
 A tiny project I did during my Y1 summer vacation
+
 This is a demo frontend version of a Client & Case Management System, originally developed with Supabase as the backend.
 The system was designed to meet the needs of a law firm, with a focus on powerful search, flexible customization, and bilingual support.
 All backend keys and sensitive data have been removed for security reasons.
